@@ -26,7 +26,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+# list to simplify text images
 gameImages = [rock, paper, scissors]
 
 userInput = int(input("Welcome to the game: Rock, paper, scissors. Type 0 to select rock, Type 1 to select paper, Type 2 to select scissors "))
